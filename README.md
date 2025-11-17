@@ -37,11 +37,11 @@ body {
 }
 </style>
 
-结合你的需求，推荐以下 3 只<strong>低风险、</strong>业绩稳健的好基：
+结合你的需求，推荐以下 3 只<strong>低风险、</strong>不收取赎回费的好基：
 <div class="fund-item">
     <div class="fund-name">
         1. 兴华安裕利率债 C
-        <strong class="risk-label">（低风险）</strong>
+        <strong class="risk-label">（收取赎回费）</strong>
     </div>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
@@ -52,7 +52,7 @@ body {
 <div class="fund-item">
     <div class="fund-name">
         2. 华夏鼎茂债券
-        <strong class="risk-label">（低风险）</strong>
+        <strong class="risk-label">（收取赎回费）</strong>
     </div>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
@@ -63,7 +63,7 @@ body {
 <div class="fund-item">
     <div class="fund-name">
         3. 国富恒瑞 A（002361）
-        <strong class="risk-label">（高风险）</strong>
+        <strong class="risk-label">（收取赎回费）</strong>
     </div>
     <div class="fund-info">
         • 产品类型："固收+"基金（70%以上投债券打底，30%以内投股票/可转债，进可攻退可守）<br>
@@ -71,4 +71,4 @@ body {
         • 赎回费规则：持有不满7天1.5%，7天≤持有不满30天0.75%，30天≤持有不满1年0.5%，持有满1年不满2年0.25%，持有满2年0，长期持有成本逐步降低，适配1-2年稳健增值需求。
     </div>
 </div>
-<div class="source">数据来源：天天基金网</div>
+<div class="source">基金信息来源：天天基金网</div>
