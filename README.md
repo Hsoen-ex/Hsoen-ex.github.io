@@ -42,7 +42,7 @@ body {
 }
 </style>
 
-结合你的需求，推荐以下 3 只<strong>收取赎回费</strong>、业绩稳健的好基：
+结合你的需求，推荐以下 3 只<strong>低风险、</strong>业绩稳健的好基：
 <div class="fund-item">
     <div class="fund-name">
         1. 兴华安裕利率债 C
