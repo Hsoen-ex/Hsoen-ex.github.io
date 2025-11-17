@@ -34,7 +34,7 @@
 </style>
 
 <div class="content">
-    结合你的需求，推荐以下3只收取赎回费但风险低、业绩稳健的好基：
+     结合你的需求，推荐以下 3 只<span style="font-weight: bold;">收取赎回费</span>但风险低、业绩稳健的好基：
 </div>
 
 <div class="fund-item">
