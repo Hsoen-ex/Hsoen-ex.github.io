@@ -1,6 +1,3 @@
-人机协作团队理财方案定制
-
-<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <title>我的专属页面</title>
