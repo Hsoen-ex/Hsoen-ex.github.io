@@ -22,6 +22,10 @@ body {
     font-weight: bold;
     margin-bottom: 10px;
 }
+/* 移除颜色样式，仅保留加粗和间距 */
+.risk-label {
+    margin-left: 10px; /* 与基金名称保持距离 */
+}
 .fund-info {
     margin-left: 1.5em;
     line-height: 1.8;
@@ -37,7 +41,7 @@ body {
 <div class="fund-item">
     <div class="fund-name">
         1. 兴华安裕利率债 C
-        <strong class="risk-low">（低风险）</strong>
+        <strong class="risk-label">（低风险）</strong>
     </div>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
@@ -48,7 +52,7 @@ body {
 <div class="fund-item">
     <div class="fund-name">
         2. 华夏鼎茂债券
-        <strong class="risk-low">（低风险）</strong>
+        <strong class="risk-label">（低风险）</strong>
     </div>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
@@ -59,7 +63,7 @@ body {
 <div class="fund-item">
     <div class="fund-name">
         3. 国富恒瑞 A（002361）
-        <strong class="risk-high">（高风险）</strong>
+        <strong class="risk-label">（高风险）</strong>
     </div>
     <div class="fund-info">
         • 产品类型："固收+"基金（70%以上投债券打底，30%以内投股票/可转债，进可攻退可守）<br>
