@@ -22,14 +22,6 @@ body {
     font-weight: bold;
     margin-bottom: 10px;
 }
-/* 新增风险标签样式，可选不同颜色区分 */
-.risk-low {
-    color: #008000; /* 低风险绿色 */
-    margin-left: 10px;
-}
-.risk-high {
-    color: #ff0000; /* 高风险红色 */
-    margin-left: 10px;
 }
 .fund-info {
     margin-left: 1.5em;
