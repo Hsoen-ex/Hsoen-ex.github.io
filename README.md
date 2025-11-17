@@ -22,7 +22,6 @@ body {
     font-weight: bold;
     margin-bottom: 10px;
 }
-}
 .fund-info {
     margin-left: 1.5em;
     line-height: 1.8;
