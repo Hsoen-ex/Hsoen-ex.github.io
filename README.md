@@ -35,7 +35,7 @@ body {
 
 结合你的需求，推荐以下 3 只<strong>收取赎回费</strong>但风险低、业绩稳健的好基：
 <div class="fund-item">
-    <div class="fund-name">1. 兴华安裕利率债 C<strong>（低风险）<strong></div>
+    <div class="fund-name">1. 兴华安裕利率债 C<strong>（低风险）<strong>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
         • 核心优势：截至2025年10月，成立以来涨幅17%，近一年收益率表现突出，全程不碰股票，波动极小，完全契合"稳"的需求；5000元预算可直接申购，无起购门槛压力。<br>
@@ -43,7 +43,7 @@ body {
     </div>
 </div>
 <div class="fund-item">
-    <div class="fund-name">2. 华夏鼎茂债券<strong>（低风险）<strong></div>
+    <div class="fund-name">2. 华夏鼎茂债券<strong>（低风险）<strong>
     <div class="fund-info">
         • 产品类型：纯债基金<br>
         • 核心优势：历史年化收益4%-5%，收益稳定性强；成立时间久，最大回撤控制在2%以内，本金安全性高，适合保守型和稳健型投资者，5000元可轻松配置。<br>
@@ -51,11 +51,11 @@ body {
     </div>
 </div>
 <div class="fund-item">
-    <div class="fund-name">3. 国富恒瑞 A（002361）<strong>（高风险）<strong></div>
+    <div class="fund-name">3. 国富恒瑞 A（002361）<strong>（高风险）<strong>
     <div class="fund-info">
         • 产品类型："固收+"基金（70%以上投债券打底，30%以内投股票/可转债，进可攻退可守）<br>
         • 核心优势：成立以来年化回报5.22%，连续8年正收益，最大回撤仅3.77%，风险调整后收益优异；权益端聚焦金融、地产等低波动板块，债券端以高评级短久期利率债为主，波动小于普通混合型基金，5000元可获取比纯债更高的潜在收益。<br>
         • 赎回费规则：持有不满7天1.5%，7天≤持有不满30天0.75%，30天≤持有不满1年0.5%，持有满1年不满2年0.25%，持有满2年0，长期持有成本逐步降低，适配1-2年稳健增值需求。
     </div>
 </div>
-<div class="source">数据来源：天天基金网</div>
+<div class="source">数据来源：天天基金网
