@@ -1,74 +1,171 @@
-<title>我的专属页面</title>
-<style>
-body {
-    font-family: "微软雅黑", Arial, sans-serif;
-    font-size: 24px;
-    padding-top: 100px;
-    background-color: #f5f5f5;
-    text-align: left;
-    padding-left: 50px;
-    padding-right: 50px;
-}
-.content {
-    text-indent: 2em;
-    line-height: 1.8;
-}
-.fund-item {
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #e0e0e0;
-}
-.fund-name {
-    font-weight: bold;
-    margin-bottom: 10px;
-}
-/* 移除颜色样式，仅保留加粗和间距 */
-.risk-label {
-    margin-left: 10px; /* 与基金名称保持距离 */
-}
-.fund-info {
-    margin-left: 1.5em;
-    line-height: 1.8;
-}
-.source {
-    text-align: right;
-    margin-top: 20px;
-    margin-bottom: 50px;
-}
-</style>
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>易方达稳健收益债券型基金详情</title>
+    <style>
+        body {
+            font-family: "微软雅黑", Arial, sans-serif;
+            font-size: 18px;
+            padding: 50px;
+            background-color: #f5f5f5;
+            line-height: 1.8;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 60px;
+            border-radius: 12px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            font-size: 32px;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            text-align: center;
+            font-weight: 700;
+        }
+        h2 {
+            font-size: 26px;
+            color: #34495e;
+            margin: 40px 0 25px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #ecf0f1;
+            font-weight: 600;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 17px;
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        th {
+            background-color: #f8f9fa;
+            color: #2c3e50;
+            font-weight: 600;
+            width: 25%;
+        }
+        td {
+            color: #4a4a4a;
+        }
+        .highlight {
+            font-weight: 600;
+            color: #e74c3c;
+        }
+        .strategy-list, .risk-list {
+            margin-left: 2em;
+            margin-bottom: 20px;
+        }
+        .strategy-list li, .risk-list li {
+            margin-bottom: 12px;
+        }
+        .performance-data {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .fee-table th {
+            width: 30%;
+        }
+        .source {
+            text-align: right;
+            margin-top: 60px;
+            color: #7f8c8d;
+            font-size: 16px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+        }
+        /* 响应式适配 */
+        @media (max-width: 768px) {
+            body {
+                padding: 20px;
+                font-size: 16px;
+            }
+            .container {
+                padding: 30px 20px;
+            }
+            h1 {
+                font-size: 28px;
+            }
+            h2 {
+                font-size: 22px;
+            }
+            table {
+                font-size: 15px;
+            }
+            th, td {
+                padding: 12px 8px;
+            }
+            th {
+                width: 30%;
+            }
+            .strategy-list, .risk-list {
+                margin-left: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>易方达稳健收益债券型证券投资基金（110007/A类；110008/B类；增设C类）</h1>
 
-结合你的需求，推荐以下 3 只<strong>低风险、不收取赎回费</strong>的好基：
-<div class="fund-item">
-    <div class="fund-name">
-        1. 兴华安裕利率债 C
-        <strong class="risk-label">（收取赎回费）</strong>
+        <h2>产品核心属性</h2>
+        <table>
+            <tr>
+                <th>赎回费规则</th>
+                <td><span class="highlight">易方达稳健收益债券型基金（A 类 110007、B 类 110008）收取赎回费，但赎回费率与持有期限挂钩，持有满 30 天可免赎回费，具体规则如下：</span><br>
+                    • 持有期限 0 天＜N≤6 天：赎回费率 1.50%；<br>
+                    • 持有期限 7 天≤N≤29 天：赎回费率 0.75%；<br>
+                    • 持有期限 N≥30 天：赎回费率 0.00%（即免赎回费）
+                </td>
+            </tr>
+            <tr>
+                <th>基金类型</th>
+                <td>债券型基金（中低风险/R2），长期风险与预期收益低于混合型基金，高于货币基金</td>
+            </tr>
+            <tr>
+                <th>成立与转型背景</th>
+                <td>前身为2005年成立的“易方达月月收益中短期债券基金”，2008年1月29日正式转型为当前产品，运作历史超17年</td>
+            </tr>
+            <tr>
+                <th>基金代码</th>
+                <td>A类（110007）、B类（110008）、C类（2019年10月增设，无单独代码，依附主代码）</td>
+            </tr>
+            <tr>
+                <th>管理团队</th>
+                <td>基金经理胡剑（2012年2月任职至今，证券从业超19年，擅长债券资产配置）</td>
+            </tr>
+            <tr>
+                <th>托管机构</th>
+                <td>中国银行股份有限公司（资金安全性有国有大行保障）</td>
+            </tr>
+            <tr>
+                <th>资产规模</th>
+                <td>截至2025年6月30日，合计255.66亿元（A/B/C类合并），规模适中，流动性良好</td>
+            </tr>
+            <tr>
+                <th>开放频率</th>
+                <td>每个开放日可申购赎回，适合灵活调整持仓</td>
+            </tr>
+        </table>
+
+        <h2>风险特征：中低风险，适配稳健需求</h2>
+        <ul class="risk-list">
+            <li><strong>风险等级</strong>：中低风险（R2），适合风险承受能力为“稳健型”及以上的投资者</li>
+            <li><strong>主要风险</strong>：利率风险（市场利率上升可能导致债券价格下跌）、信用风险（个券违约风险，概率极低）、流动性风险（规模适中，流动性良好，风险可控）</li>
+            <li><strong>风险控制</strong>：基金经理通过久期管理、信用债精选、分散投资等策略，有效降低组合波动；易方达基金强大的研究团队为信用风险评估提供支撑</li>
+            <li><strong>不适合人群</strong>：追求高收益、能承受高波动的投资者；短期（＜7天）频繁交易的投资者（赎回费率较高）</li>
+        </ul>
+
     </div>
-    <div class="fund-info">
-        • 产品类型：纯债基金<br>
-        • 核心优势：截至2025年10月，成立以来涨幅17%，近一年收益率表现突出，全程不碰股票，波动极小，完全契合"稳"的需求；5000元预算可直接申购，无起购门槛压力。<br>
-        • 赎回费规则：持有满7天赎回费为0，持有不满7天按0.1%收取，短期赎回成本低，兼顾灵活性与稳健性。
-    </div>
-</div>
-<div class="fund-item">
-    <div class="fund-name">
-        2. 华夏鼎茂债券
-        <strong class="risk-label">（收取赎回费）</strong>
-    </div>
-    <div class="fund-info">
-        • 产品类型：纯债基金<br>
-        • 核心优势：历史年化收益4%-5%，收益稳定性强；成立时间久，最大回撤控制在2%以内，本金安全性高，适合保守型和稳健型投资者，5000元可轻松配置。<br>
-        • 赎回费规则：持有不满30天赎回费0.1%，持有满30天不满1年0.05%，持有满1年赎回费0，鼓励长期持有，与稳健型投资的"长期配置"需求匹配。
-    </div>
-</div>
-<div class="fund-item">
-    <div class="fund-name">
-        3. 国富恒瑞 A（002361）
-        <strong class="risk-label">（收取赎回费）</strong>
-    </div>
-    <div class="fund-info">
-        • 产品类型："固收+"基金（70%以上投债券打底，30%以内投股票/可转债，进可攻退可守）<br>
-        • 核心优势：成立以来年化回报5.22%，连续8年正收益，最大回撤仅3.77%，风险调整后收益优异；权益端聚焦金融、地产等低波动板块，债券端以高评级短久期利率债为主，波动小于普通混合型基金，5000元可获取比纯债更高的潜在收益。<br>
-        • 赎回费规则：持有不满7天1.5%，7天≤持有不满30天0.75%，30天≤持有不满1年0.5%，持有满1年不满2年0.25%，持有满2年0，长期持有成本逐步降低，适配1-2年稳健增值需求。
-    </div>
-</div>
-<div class="source">基金信息来源：天天基金网</div>
+</body>
+</html>
