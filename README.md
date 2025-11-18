@@ -59,21 +59,12 @@
             font-weight: 600;
             color: #e74c3c;
         }
-        .strategy-list, .risk-list {
+        .risk-list {
             margin-left: 2em;
             margin-bottom: 20px;
         }
-        .strategy-list li, .risk-list li {
+        .risk-list li {
             margin-bottom: 12px;
-        }
-        .performance-data {
-            background-color: #f8f9fa;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-        }
-        .fee-table th {
-            width: 30%;
         }
         .source {
             text-align: right;
@@ -107,7 +98,7 @@
             th {
                 width: 30%;
             }
-            .strategy-list, .risk-list {
+            .risk-list {
                 margin-left: 1.5em;
             }
         }
@@ -161,6 +152,7 @@
             <li><strong>不适合人群</strong>：追求高收益、能承受高波动的投资者；短期（＜7天）频繁交易的投资者（赎回费率较高）</li>
         </ul>
 
+        <div class="source">基金信息来源：易方达基金官方披露公告（截至2025年11月）</div>
     </div>
 </body>
 </html>
