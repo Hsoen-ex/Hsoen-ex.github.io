@@ -121,8 +121,7 @@
         <table>
             <tr>
                 <th>赎回费规则</th>
-                <td><span class="highlight">易方达稳健收益债券型基金（A 类 110007、B 类 110008）收取赎回费。
-                </td>
+                <td><span class="highlight">易方达稳健收益债券型基金（A 类 110007、B 类 110008）收取赎回费。</span></td>
             </tr>
             <tr>
                 <th>基金类型</th>
